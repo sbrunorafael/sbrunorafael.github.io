@@ -9,7 +9,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.1"
+<<<<<<< HEAD
 gem "mini_racer"
+=======
+>>>>>>> 0ad04d3aa6dbf33ba87d3d6536c13222e0f79f3d
 
 gem "jekyll-theme-hydejack", "~> 9.1"
 
